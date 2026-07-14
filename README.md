@@ -1,1 +1,1 @@
-# photo-gallery
+Upload this folder to GitHub Pages.

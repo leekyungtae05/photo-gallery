@@ -1,0 +1,9 @@
+{
+"name":"Lee Kyungtae Gallery",
+"short_name":"Gallery",
+"start_url":"./",
+"display":"standalone",
+"background_color":"#111111",
+"theme_color":"#111111",
+"icons":[]
+}
